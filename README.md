@@ -12,7 +12,7 @@ ie: `const CONFIG = {
 }`
 
 `'message'` is what your account that you authorised the OAuth token for will post into chat  
-The is default set to a 60 second timeout  
+The default is set to a 60 second timeout command  
 `{user}` will be replaced with the username of the person who used the /me command
 
 Opening the html page *get_nomed.html* in a browser will start the bot  
